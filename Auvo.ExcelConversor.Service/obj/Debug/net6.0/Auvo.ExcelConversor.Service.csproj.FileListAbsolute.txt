@@ -1,0 +1,30 @@
+C:\Users\crist\Área de Trabalho\Resolução teste AUVO\Auvo.ExcelConversor\Auvo.ExcelConversor.API\Auvo.ExcelConversor.Service\bin\Debug\net6.0\Auvo.ExcelConversor.Service.deps.json
+C:\Users\crist\Área de Trabalho\Resolução teste AUVO\Auvo.ExcelConversor\Auvo.ExcelConversor.API\Auvo.ExcelConversor.Service\bin\Debug\net6.0\Auvo.ExcelConversor.Service.dll
+C:\Users\crist\Área de Trabalho\Resolução teste AUVO\Auvo.ExcelConversor\Auvo.ExcelConversor.API\Auvo.ExcelConversor.Service\bin\Debug\net6.0\ref\Auvo.ExcelConversor.Service.dll
+C:\Users\crist\Área de Trabalho\Resolução teste AUVO\Auvo.ExcelConversor\Auvo.ExcelConversor.API\Auvo.ExcelConversor.Service\bin\Debug\net6.0\Auvo.ExcelConversor.Service.pdb
+C:\Users\crist\Área de Trabalho\Resolução teste AUVO\Auvo.ExcelConversor\Auvo.ExcelConversor.API\Auvo.ExcelConversor.Service\obj\Debug\net6.0\Auvo.ExcelConversor.Service.csproj.AssemblyReference.cache
+C:\Users\crist\Área de Trabalho\Resolução teste AUVO\Auvo.ExcelConversor\Auvo.ExcelConversor.API\Auvo.ExcelConversor.Service\obj\Debug\net6.0\Auvo.ExcelConversor.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crist\Área de Trabalho\Resolução teste AUVO\Auvo.ExcelConversor\Auvo.ExcelConversor.API\Auvo.ExcelConversor.Service\obj\Debug\net6.0\Auvo.ExcelConversor.Service.AssemblyInfoInputs.cache
+C:\Users\crist\Área de Trabalho\Resolução teste AUVO\Auvo.ExcelConversor\Auvo.ExcelConversor.API\Auvo.ExcelConversor.Service\obj\Debug\net6.0\Auvo.ExcelConversor.Service.AssemblyInfo.cs
+C:\Users\crist\Área de Trabalho\Resolução teste AUVO\Auvo.ExcelConversor\Auvo.ExcelConversor.API\Auvo.ExcelConversor.Service\obj\Debug\net6.0\Auvo.ExcelConversor.Service.csproj.CoreCompileInputs.cache
+C:\Users\crist\Área de Trabalho\Resolução teste AUVO\Auvo.ExcelConversor\Auvo.ExcelConversor.API\Auvo.ExcelConversor.Service\obj\Debug\net6.0\Auvo.ExcelConversor.Service.dll
+C:\Users\crist\Área de Trabalho\Resolução teste AUVO\Auvo.ExcelConversor\Auvo.ExcelConversor.API\Auvo.ExcelConversor.Service\obj\Debug\net6.0\ref\Auvo.ExcelConversor.Service.dll
+C:\Users\crist\Área de Trabalho\Resolução teste AUVO\Auvo.ExcelConversor\Auvo.ExcelConversor.API\Auvo.ExcelConversor.Service\obj\Debug\net6.0\Auvo.ExcelConversor.Service.pdb
+C:\Users\crist\Área de Trabalho\Resolução teste AUVO\Auvo.ExcelConversor\Auvo.ExcelConversor.API\Auvo.ExcelConversor.Service\bin\Debug\net6.0\Auvo.ExcelConversor.Domain.dll
+C:\Users\crist\Área de Trabalho\Resolução teste AUVO\Auvo.ExcelConversor\Auvo.ExcelConversor.API\Auvo.ExcelConversor.Service\bin\Debug\net6.0\Auvo.ExcelConversor.Domain.pdb
+C:\Users\crist\Área de Trabalho\Resolução teste AUVO\Auvo.ExcelConversor\Auvo.ExcelConversor.API\Auvo.ExcelConversor.Service\obj\Debug\net6.0\Auvo.ExcelConversor.Service.csproj.CopyComplete
+D:\Leonardo\Git\ExcelConversorApi\Auvo.ExcelConversor.Service\bin\Debug\net6.0\Auvo.ExcelConversor.Service.deps.json
+D:\Leonardo\Git\ExcelConversorApi\Auvo.ExcelConversor.Service\bin\Debug\net6.0\Auvo.ExcelConversor.Service.dll
+D:\Leonardo\Git\ExcelConversorApi\Auvo.ExcelConversor.Service\bin\Debug\net6.0\Auvo.ExcelConversor.Service.pdb
+D:\Leonardo\Git\ExcelConversorApi\Auvo.ExcelConversor.Service\bin\Debug\net6.0\Auvo.ExcelConversor.Domain.dll
+D:\Leonardo\Git\ExcelConversorApi\Auvo.ExcelConversor.Service\bin\Debug\net6.0\Auvo.ExcelConversor.Domain.pdb
+D:\Leonardo\Git\ExcelConversorApi\Auvo.ExcelConversor.Service\obj\Debug\net6.0\Auvo.ExcelConversor.Service.csproj.AssemblyReference.cache
+D:\Leonardo\Git\ExcelConversorApi\Auvo.ExcelConversor.Service\obj\Debug\net6.0\Auvo.ExcelConversor.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\Leonardo\Git\ExcelConversorApi\Auvo.ExcelConversor.Service\obj\Debug\net6.0\Auvo.ExcelConversor.Service.AssemblyInfoInputs.cache
+D:\Leonardo\Git\ExcelConversorApi\Auvo.ExcelConversor.Service\obj\Debug\net6.0\Auvo.ExcelConversor.Service.AssemblyInfo.cs
+D:\Leonardo\Git\ExcelConversorApi\Auvo.ExcelConversor.Service\obj\Debug\net6.0\Auvo.ExcelConversor.Service.csproj.CoreCompileInputs.cache
+D:\Leonardo\Git\ExcelConversorApi\Auvo.ExcelConversor.Service\obj\Debug\net6.0\Auvo.ExcelConversor.Service.csproj.CopyComplete
+D:\Leonardo\Git\ExcelConversorApi\Auvo.ExcelConversor.Service\obj\Debug\net6.0\Auvo.ExcelConversor.Service.dll
+D:\Leonardo\Git\ExcelConversorApi\Auvo.ExcelConversor.Service\obj\Debug\net6.0\refint\Auvo.ExcelConversor.Service.dll
+D:\Leonardo\Git\ExcelConversorApi\Auvo.ExcelConversor.Service\obj\Debug\net6.0\Auvo.ExcelConversor.Service.pdb
+D:\Leonardo\Git\ExcelConversorApi\Auvo.ExcelConversor.Service\obj\Debug\net6.0\ref\Auvo.ExcelConversor.Service.dll
